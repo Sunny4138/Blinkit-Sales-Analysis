@@ -1,5 +1,6 @@
 # 🛒 Blinkit  Sales Analysis 
 
+<img width="1449" height="813" alt="image" src="https://github.com/user-attachments/assets/bcde6719-8e1c-455b-af61-c9a78ecc3501" />
 
 
 
